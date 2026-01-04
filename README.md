@@ -23,4 +23,4 @@ Düşük seviyeli sistem ayarları, Windows Registry optimizasyonları ve perfor
 
 ---
 
-📫 **Bana Ulaşın:** LinkedIn 
+📫 **Bana Ulaşın:** https://www.linkedin.com/in/r%C4%B1zgar-ko%C3%A7-904a05334/ 
