@@ -23,10 +23,4 @@ Düşük seviyeli sistem ayarları, Windows Registry optimizasyonları ve perfor
 
 ---
 
-### 📊 GitHub İstatistiklerim
-![Serobini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serobini&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serobini&layout=compact&theme=tokyonight)
-
----
-
 📫 **Bana Ulaşın:** rizgar.ko2019@gmail.com
