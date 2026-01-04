@@ -1,16 +1,32 @@
-## Hi there 👋
+# Selam, ben Serobini! 👋
 
-<!--
-**Serobini/Serobini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Sistem & Yazılım Meraklısı
+Düşük seviyeli sistem ayarları, Windows Registry optimizasyonları ve performans odaklı geliştirmelerle ilgileniyorum. Karmaşık sistemleri kurcalamayı ve onları daha verimli hale getirmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Üzerinde Çalıştığım Projeler
+Şu an aktif olarak bir ekip ile birlikte mobil uygulama geliştiriyorum:
+
+* **[Spor Denge Takibi](https://github.com/LURIDD/Spor-Denge-Takibi)**
+* - **[Spor Denge Takibi](https://github.com/LURIDD/Spor-Denge-Takibi)** (Backend & Logic Developer)
+  - **Hedef & Seri Takip Sistemi:** Kullanıcı hedeflerini tamamladığında "seri (streak)" takibini yöneten ve artıran algoritmanın geliştirilmesi.
+  - **Admin Dashboard Backend:** Aktif serilerin takibi ve sistemdeki maksimum kullanıcı limiti gibi kritik metriklerin arka plan mantığının kurulması.
+  - **Veri Optimizasyonu:** Backend servislerinin performanslı çalışması için veri yapılarının kurgulanması.
+
+---
+
+### 💻 Teknik Yeteneklerim
+* **Diller & Frameworkler:** Flutter, Dart, SQL
+* **Sistem:** Windows Registry Optimization, Low-level System Tweaks, Performance Tuning
+* **Araçlar:** Git, GitHub, Firebase, FlutterFlow, VS Code, Antigravity
+
+---
+
+### 📊 GitHub İstatistiklerim
+![Serobini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serobini&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serobini&layout=compact&theme=tokyonight)
+
+---
+
+📫 **Bana Ulaşın:** rizgar.ko2019@gmail.com
