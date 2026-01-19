@@ -6,7 +6,7 @@ Düşük seviyeli sistem ayarları, Windows Registry optimizasyonları ve perfor
 ---
 
 ### 🚀 Üzerinde Çalıştığım Proje
-Bir ekip ile yapmış olduğum mobil uygulama:
+Yapmış olduğum mobil uygulama:
 
 * **[Spor Denge Takibi](https://github.com/LURIDD/Spor-Denge-Takibi)**
 * - **[Spor Denge Takibi](https://github.com/LURIDD/Spor-Denge-Takibi)** (Backend & Logic Developer)
