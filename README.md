@@ -5,8 +5,8 @@ Düşük seviyeli sistem ayarları, Windows Registry optimizasyonları ve perfor
 
 ---
 
-### 🚀 Üzerinde Çalıştığım Projeler
-Şu an aktif olarak bir ekip ile birlikte mobil uygulama geliştiriyorum:
+### 🚀 Üzerinde Çalıştığım Proje
+Bir ekip ile yapmış olduğum mobil uygulama:
 
 * **[Spor Denge Takibi](https://github.com/LURIDD/Spor-Denge-Takibi)**
 * - **[Spor Denge Takibi](https://github.com/LURIDD/Spor-Denge-Takibi)** (Backend & Logic Developer)
